@@ -25,4 +25,4 @@ By the end of this project, students should be able to:
 Kalu Onuka Daniel
 Email: danielfrosh22@gmail.com
 
-Software Engineer & Programming Instructor#
+Software Engineer & Programming Instructor
