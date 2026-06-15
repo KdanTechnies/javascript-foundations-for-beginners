@@ -1,0 +1,10 @@
+
+
+JavaScript Table Beginner Version!
+
+
+| let                    | const              |
+| ---------------------- | ------------------ |
+| Can change             | Cannot change      |
+| Use when value changes | Use by default     |
+| Example: score         | Example: birthYear |
